@@ -7,7 +7,7 @@
 ### Инструкция.
 
 - `Final_text.pdf` - это полноценный исследовательский отчёт
-- `final_bi.pbix` - это очтет в Power BI
+- `final_bi.pbix` - это отчёт в Power BI
 - `final_py.ipynb` - это файл в Google Colab, написанный на Python
 - `final_task.pdf` - это первоначальное задание
 - `powerbi_control.xlsx` - это Excel-файл, созданный в `final_py` для подготовки отчёта в `final_bi` для контрольной группы
